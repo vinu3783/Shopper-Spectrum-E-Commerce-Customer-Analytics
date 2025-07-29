@@ -16,7 +16,7 @@ Frontend: Streamlit Data Processing: Pandas, NumPy Machine Learning: Scikit-lear
 
 📁 Project Structure shopper-spectrum/ ├── streamlit_app/ │ └── app.py # Main Streamlit application ├── notebooks/ │ ├── 01_data_exploration.ipynb │ ├── 02_data_preprocessing.ipynb │ ├── 03_exploratory_data_analysis.ipynb │ ├── 04_customer_segmentation.ipynb │ └── 05_recommendation_system.ipynb ├── data/ │ ├── raw/ # Original dataset │ └── processed/ # Cleaned and processed data ├── models/ # Trained ML models ├── requirements.txt # Python dependencies └── README.md # Project documentation 🏃‍♂️ Quick Start Local Installation
 
-Clone the repository bashgit clone https://github.com/Incharapm0915/shopper-spectrum.git cd shopper-spectrum
+Clone the repository bashgit clone https://github.com/vinu3783/Shopper-Spectrum-E-Commerce-Customer-Analytics cd shopper-spectrum
 
 Create virtual environment bashpython -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
 
